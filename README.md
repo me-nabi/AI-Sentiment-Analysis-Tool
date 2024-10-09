@@ -60,7 +60,7 @@ To run this project locally:
 ## 👨‍💻 Author
 
 - **MD EHTASHAM NABI**
-- [GitHub]((https://github.com/me-nabi)) | [LinkedIn](linkedin.com/in/md-ehtasham-nabi-609088259)
+- [GitHub](https://github.com/me-nabi) | [LinkedIn](linkedin.com/in/md-ehtasham-nabi-609088259)
 
 ---
 
