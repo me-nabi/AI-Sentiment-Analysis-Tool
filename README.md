@@ -59,8 +59,8 @@ To run this project locally:
 
 ## 👨‍💻 Author
 
-- **Your Name**
-- [GitHub]([https://github.com/your-username](https://github.com/me-nabi)) | [LinkedIn](linkedin.com/in/md-ehtasham-nabi-609088259)
+- **MD EHTASHAM NABI**
+- [GitHub]((https://github.com/me-nabi)) | [LinkedIn](linkedin.com/in/md-ehtasham-nabi-609088259)
 
 ---
 
